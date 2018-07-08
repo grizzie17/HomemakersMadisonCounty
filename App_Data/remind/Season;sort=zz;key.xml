@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<reminders xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="remind.xsd">
+	<event id="e20010731151734">
+		<date type="season" pending="3">1</date>
+		<category>season</category>
+		<category>newsletter</category>
+		<category>email2</category>
+		<style>outerspace</style>
+		<subject><![CDATA[First Day of Summer]]></subject>
+		<content><![CDATA[{{time}} UTC]]></content>
+	</event>
+	<event id="e20010731151906">
+		<date type="season" pending="3">0</date>
+		<category>season</category>
+		<category>newsletter</category>
+		<category>email2</category>
+		<style>outerspace</style>
+		<subject><![CDATA[First Day of Spring]]></subject>
+		<content><![CDATA[{{time}} UTC]]></content>
+	</event>
+	<event id="e20010731152254">
+		<date type="season" pending="3">2</date>
+		<category>season</category>
+		<category>newsletter</category>
+		<category>email2</category>
+		<style>outerspace</style>
+		<subject><![CDATA[First Day of Autumn]]></subject>
+		<content><![CDATA[{{time}} UTC]]></content>
+	</event>
+	<event id="e20010904001053">
+		<date type="season" pending="3">3</date>
+		<category>season</category>
+		<category>newsletter</category>
+		<category>email2</category>
+		<style>outerspace</style>
+		<subject><![CDATA[First Day of Winter]]></subject>
+		<content><![CDATA[{{time}} UTC]]></content>
+	</event>
+	<event id="e20011016233513">
+		<date type="yearly" yearly="dayn" pending="3">02 29</date>
+		<category>email2</category>
+		<category>newsletter</category>
+		<style>outerspace</style>
+		<subject><![CDATA[Leap Year Day]]></subject>
+	</event>
+	<event id="e20090201222453"><date type="keyword" pending="5">moon full</date><category>email2</category><style>outerspace</style><subject><![CDATA[Full Moon]]></subject></event><event id="e20090201222545"><date type="keyword" pending="3">moon new</date><style>outerspace</style><subject><![CDATA[New Moon]]></subject></event></reminders>

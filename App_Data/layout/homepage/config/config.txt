@@ -1,0 +1,4 @@
+layout:fixed2,fixed1,dynamic
+column-1:forum.txt,announcements.txt,humor.txt
+column-2:homepage_articles.txt
+column-3:calendar_meeting.txt,calendar_pending_events.txt,calendar_birthdays.txt,email_events.txt,calendar_last_modified.txt

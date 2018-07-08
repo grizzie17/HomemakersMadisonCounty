@@ -1,0 +1,129 @@
+<?xml version="1.0"?>
+<reminders xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="remind.xsd">
+	<event id="e501">
+		<date type="yearly" yearly="dayn" offset="+ weekday" pending="60">01 01</date>
+		<category>holiday</category>
+		<category>ingr</category>
+		<category>definition</category>
+		<category>email2</category>
+		<category>usa</category>
+		<style>holiday</style>
+		<subject><![CDATA[New Year's Holiday]]></subject>
+	</event>
+	<event id="e528">
+		<date type="yearly" yearly="dayn" offset="~ weekday" pending="60">07 04</date>
+		<category>holiday</category>
+		<category>usa</category>
+		<category>ingr</category>
+		<category>definition</category>
+		<category>email2</category>
+		<style>holiday</style>
+		<subject><![CDATA[Independence Holiday]]></subject>
+	</event>
+	<event id="e540">
+		<date type="yearly" yearly="wday" offset="# 1" pending="30">11 4 5</date>
+		<category>holiday</category>
+		<category>usa</category>
+		<category>ingr</category>
+		<category>email2</category>
+		<style>holiday2</style>
+		<subject><![CDATA[Thanksgiving Holiday]]></subject>
+	</event>
+	<event id="e20011128124047">
+		<date type="yearly" yearly="dayn" offset="~ weekday" pending="60">12 25</date>
+		<category>holiday</category>
+		<category>ingr</category>
+		<category>definition</category>
+		<category>email2</category>
+		<category>usa</category>
+		<style>holiday</style>
+		<subject><![CDATA[Christmas Holiday]]></subject>
+	</event>
+	<event id="e20011205224200">
+		<date type="yearly" yearly="wday" pending="60">01 3 2</date>
+		<category>holiday</category>
+		<category>ingr</category>
+		<category>email2</category>
+		<category>usa</category>
+		<style>holiday</style>
+		<subject><![CDATA[Martin Luther King Jr. Holiday]]></subject>
+	</event>
+	<event id="e20011205224415">
+		<date type="yearly" yearly="wday" pending="60">05 -1 2</date>
+		<category>holiday</category>
+		<category>ingr</category>
+		<category>email2</category>
+		<category>usa</category>
+		<style>holiday</style>
+		<subject><![CDATA[Memorial Holiday]]></subject>
+	</event>
+	<event id="e20011205224625">
+		<date type="yearly" yearly="wday" pending="60">09 1 2</date>
+		<category>holiday</category>
+		<category>ingr</category>
+		<category>email2</category>
+		<category>usa</category>
+		<style>holiday</style>
+		<subject><![CDATA[Labor Holiday]]></subject>
+	</event>
+	<event id="e20050105164702">
+		<date type="yearly" yearly="dayn" offset="? weekday ++ cancel" pending="60">01 01</date>
+		<category>holiday</category>
+		<category>email</category>
+		<category>ingr</category>
+		<style>holiday2</style>
+		<subject><![CDATA[New Year's Day]]></subject>
+	</event>
+	<event id="e20050105164844">
+		<date type="yearly" yearly="wday" pending="30">02 3 2</date>
+		<category>email2</category>
+		<category>usa</category>
+		<category>newsletter</category>
+		<style>holiday</style>
+		<subject><![CDATA[President's Day]]></subject>
+	</event>
+	<event id="e20050105165040">
+		<date type="yearly" yearly="dayn" offset="? weekday ++ cancel" pending="60">07 04</date>
+		<category>holiday</category>
+		<category>email</category>
+		<category>ingr</category>
+		<category>usa</category>
+		<style>holiday2</style>
+		<subject><![CDATA[Independence Day]]></subject>
+	</event>
+	<event id="e20050105165322">
+		<date type="yearly" yearly="wday" pending="30">10 2 2</date>
+		<category>email2</category>
+		<category>usa</category>
+		<category>newsletter</category>
+		<style>holiday2</style>
+		<subject><![CDATA[Columbus Holiday (Observed)]]></subject>
+	</event>
+	<event id="e20050105165455">
+		<date type="yearly" yearly="wday" pending="60">11 4 5</date>
+		<category>holiday</category>
+		<category>email</category>
+		<category>ingr</category>
+		<category>usa</category>
+		<style>holiday</style>
+		<subject><![CDATA[Thanksgiving Day]]></subject>
+	</event>
+	<event id="e20051023002035">
+		<date type="yearly" yearly="dayn" offset="? weekday - cancel" pending="60">12 25</date>
+		<category>holiday</category>
+		<category>ingr</category>
+		<category>definition</category>
+		<category>email2</category>
+		<category>usa</category>
+		<style>RmdChristmas</style>
+		<subject><![CDATA[Christmas]]></subject>
+	</event>
+	<event id="e20061112132035">
+		<date type="yearly" yearly="dayn" offset="? 1 # +1" pending="30">11 11</date>
+		<category>email2</category>
+		<category>usa</category>
+		<category>newsletter</category>
+		<style>RmdMilitary</style>
+		<subject><![CDATA[Veterans' Day (Armistice Day)]]></subject>
+	</event>
+</reminders>
